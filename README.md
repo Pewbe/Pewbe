@@ -3,3 +3,4 @@ I'm gwangju software meister high school student.
 -----------
 >* 광주 소프트웨어 마이스터 고등학교 4기 학생
 >* 전공자바아님 앱개발도 아님
+>* 지망분야 게임개발
