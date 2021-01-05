@@ -5,4 +5,4 @@ I'm gwangju software meister high school student.
 >* 전공자바아님 앱개발도 아님
 >* 지망분야 게임개발
 -----------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewbe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)
+[![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewbe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
