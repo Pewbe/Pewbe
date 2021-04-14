@@ -5,4 +5,4 @@ I'm gwangju software meister high school student.
    
 ![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewbe&layout=demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewbe&layout=compact)
