@@ -2,7 +2,11 @@
 I'm gwangju software meister high school student.
 -----------
 >* 광주 소프트웨어 마이스터 고등학교 4기 재학생
-   
+
+what I studing
+-----------
+
+-----------   
 ![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewbe&layout=compact)
