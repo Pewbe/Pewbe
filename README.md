@@ -2,6 +2,7 @@
 I'm gwangju software meister high school student.
 -----------
 >열심히 살고 싶은 광주 소프트웨어 마이스터 고등학교 4기 재학생
+>자바 개발자 아님
 
 ![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)
 
