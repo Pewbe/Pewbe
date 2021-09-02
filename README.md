@@ -3,7 +3,7 @@ I'm gwangju software meister high school student.
 -----------
 >열심히 살고 싶은 고등학생
 >전공은 게임개발  
->개발하는 
+>개발하는 짤쟁이
 
 ![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)
 
