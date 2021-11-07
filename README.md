@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PEWBE👻&fontSize=90)
 ### ( '◡' )ノ
 >열심히 살고 싶은 평범한 고등학생  
->게임개발인 척 하는 애니메이터
+>게임개발인 척 하는 짤쟁이
 
 ![Pewbe%27s github stats](https://github-readme-stats.vercel.app/api?username=Pewbe&show_icons=true)
 
